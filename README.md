@@ -1,1 +1,1 @@
-# Block-design-of-ALU-0-64-bit
+# Block-design-of-ALU-0-64-bit. It is generic for 0-64 bit ALU. You can Design according to condition, you dont need to write Code or create any file. We have desgin it for common , will take seconds for any bit block desgin of ALU , you only need Vivado Tool to run this.
